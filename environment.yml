@@ -1,0 +1,12 @@
+name: parsimple
+channels:
+  - defaults
+dependencies:
+  - jupyter
+  - voila
+  - numpy
+  - scipy
+  - ipywidgets
+  - matplotlib
+  - git
+prefix: C:\Users\Jack\anaconda3\envs\parsimple
